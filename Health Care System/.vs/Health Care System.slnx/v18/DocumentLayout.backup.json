@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\dbcontext\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\dbcontext\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\migrations\\20261005032809_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\migrations\\20261005032809_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\migrations\\20261005032147_insertclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\migrations\\20261005032147_insertclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\health care system\\health care system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98C994E-37C9-6A04-754E-AECE52FB1E6C}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261005032809_classes.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Migrations\\20261005032809_classes.cs",
+              "RelativeDocumentMoniker": "Health Care System\\Migrations\\20261005032809_classes.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Migrations\\20261005032809_classes.cs",
+              "RelativeToolTip": "Health Care System\\Migrations\\20261005032809_classes.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:28:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261005032147_insertclasses.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Migrations\\20261005032147_insertclasses.cs",
+              "RelativeDocumentMoniker": "Health Care System\\Migrations\\20261005032147_insertclasses.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Migrations\\20261005032147_insertclasses.cs",
+              "RelativeToolTip": "Health Care System\\Migrations\\20261005032147_insertclasses.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:21:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthCareDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Dbcontext\\HealthCareDbContext.cs",
+              "RelativeDocumentMoniker": "Health Care System\\Dbcontext\\HealthCareDbContext.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Dbcontext\\HealthCareDbContext.cs",
+              "RelativeToolTip": "Health Care System\\Dbcontext\\HealthCareDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:17:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Health Care System\\models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Appointment.cs",
+              "RelativeToolTip": "Health Care System\\models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:15:42.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Health Care System\\models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Doctor.cs",
+              "RelativeToolTip": "Health Care System\\models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:14:21.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Patient.cs",
+              "RelativeDocumentMoniker": "Health Care System\\models\\Patient.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\models\\Patient.cs",
+              "RelativeToolTip": "Health Care System\\models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:12:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Program.cs",
+              "RelativeDocumentMoniker": "Health Care System\\Program.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\Health Care System\\Health Care System\\Program.cs",
+              "RelativeToolTip": "Health Care System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:11:02.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\dbcontext\\shopdbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\dbcontext\\shopdbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\migrations\\20261005014317_classadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\migrations\\20261005014317_classadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\model\\custmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\model\\custmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|c:\\users\\abdelrhman\\onedrive - october 6 university egypt\\desktop\\abdelrhman fathy ali\\e-commerce system\\e-commerce system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1807B03-F323-E392-AFA9-6D22C1195223}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261005014317_classadded.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Migrations\\20261005014317_classadded.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\Migrations\\20261005014317_classadded.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Migrations\\20261005014317_classadded.cs",
+              "RelativeToolTip": "E-commerce System\\Migrations\\20261005014317_classadded.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwIIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:43:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopDbContect.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Dbcontext\\ShopDbContect.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\Dbcontext\\ShopDbContect.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Dbcontext\\ShopDbContect.cs",
+              "RelativeToolTip": "E-commerce System\\Dbcontext\\ShopDbContect.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:21:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\product.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\model\\product.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\product.cs",
+              "RelativeToolTip": "E-commerce System\\model\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T23:59:33.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "orderdetail.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\orderdetail.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\model\\orderdetail.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\orderdetail.cs",
+              "RelativeToolTip": "E-commerce System\\model\\orderdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:04:34.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custmer.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\custmer.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\model\\custmer.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\custmer.cs",
+              "RelativeToolTip": "E-commerce System\\model\\custmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:03:30.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orders.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\orders.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\model\\orders.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\orders.cs",
+              "RelativeToolTip": "E-commerce System\\model\\orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:02:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\Category.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\model\\Category.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\model\\Category.cs",
+              "RelativeToolTip": "E-commerce System\\model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T00:02:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\Program.cs",
+              "ToolTip": "C:\\Users\\abdelrhman\\OneDrive - October 6 University Egypt\\Desktop\\abdelrhman fathy ali\\E-commerce System\\E-commerce System\\Program.cs",
+              "RelativeToolTip": "E-commerce System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T23:58:12.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
